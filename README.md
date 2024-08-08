@@ -22,9 +22,10 @@
 <h2>Intermediate:</h2> 
 <ol>
   <li> Tollify: https://toolifylp.netlify.app</li>
-  <li> e-commerce-ui: https://ecommerce8.netlify.app</li>
+  <li> e-commerce-ui: https://ecommerce8.netlify.app ( currently in development phase )</li>
 </ol>
 
+<br><br><br><br><br>
 
 # Javascript Projects:
 
