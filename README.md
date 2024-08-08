@@ -13,7 +13,8 @@
   <li>Huddle Landing Page: huddlelandingpage.netlify.app</li>
   <li>Four Cards Feature Section: cardspotlightzone.netlify.app</li>
   <li>Intro Component with SignUp Form: joinourclub.netlify.app</li>
-  <li>Stats Preview Card Component: [Stats Preview Card Component](https://statblitz.netlify.app/)</li>
+  <li>[Stats Preview Card Component](https://statblitz.netlify.app)</li>
+  <li>[Base Apparel Coming Soon Page](https://baseapparelcomingsoon08.netlify.app)</li>
 </ol>
 
 
