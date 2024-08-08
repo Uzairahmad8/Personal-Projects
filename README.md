@@ -2,7 +2,7 @@
 
 <ol>
   <li>[Fylo](https://fylomagic.netlify.app/)</li>
-  <li>Article Preview: articlesnap.netlify.app</li>
+  <li>[Article Preview](https://articlesnap.netlify.app/)</li>
   <li>Meet Landing Page: meetlanding8.netlify.app</li>
   <li>Blogr Landing Page: blogrportal.netlify.app</li>
   <li>Social Proof Section: socialverif.netlify.app</li>
