@@ -15,91 +15,91 @@
       <td>Fylo</td>
       <td><a href="https://fylomagic.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Fylo" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Article Preview</td>
       <td><a href="https://articlesnap.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Article-Preview" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Meet Landing Page</td>
       <td><a href="https://meetlanding8.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Meet-Landing-Page" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Blogr Landing Page</td>
       <td><a href="https://blogrportal.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Blogr-Landing-Page" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>3 Column Design</td>
       <td><a href="http://tri-column-design.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/3-column" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Social Proof Section</td>
       <td><a href="https://socialverif.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Social-Proof-Section" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Testimonial Grid Section</td>
       <td><a href="https://gridcheer.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Testimonial-Grid-Section" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>FAQ Accordion Card</td>
       <td><a href="https://faqacordioncard.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/FAQ-Accordain-Card" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Clipboard Landing Page</td>
       <td><a href="https://clippylanding.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Clipboard-landing-Page" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>TypeMaster Pre Launch</td>
       <td><a href="https://masterprelaunch.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/TypeMaster-Pre-Launch" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Huddle Landing Page</td>
       <td><a href="https://huddlelandingpage.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Huddle_Landing_Page" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Stats Preview Card Component</td>
       <td><a href="https://statblitz.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Stats-Preview-Card-Component" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Four Cards Feature Section</td>
       <td><a href="https://cardspotlightzone.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Four-Cards-Feature-Section" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Intro Component with SignUp Form</td>
       <td><a href="https://joinourclub.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Intro-Component-with-SignUp-Form" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Base Apparel Coming Soon Page</td>
       <td><a href="https://baseapparelcomingsoon08.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/Uzairahmad8/Base-Apparel-coming-soon-page" target="_blank">GitHub Repo</a></td>
     </tr>
     </tbody>
 </table>
