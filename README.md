@@ -42,6 +42,7 @@
 
 
 
+<h2>Basic Frontend Projects:</h2>
 <table>
   <thead>
     <tr>
@@ -143,63 +144,8 @@
       <td><a href="#" target="_blank">Figma Design</a></td>
       <td><a href="#" target="_blank">GitHub Repo</a></td>
     </tr>
-    <!-- Intermediate: Frontend Projects -->
-    <tr>
-      <td>Tollify</td>
-      <td><a href="https://toolifylp.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <tr>
-      <td>e-commerce-ui</td>
-      <td><a href="https://ecommerce8.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <!-- Basics: JavaScript Projects -->
-    <tr>
-      <td>To-do List</td>
-      <td><a href="https://taskwizz.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <tr>
-      <td>Calculator</td>
-      <td><a href="https://easycalcu.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <tr>
-      <td>Black Jack Game</td>
-      <td><a href="https://blackjack08.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <tr>
-      <td>Password Generator</td>
-      <td><a href="https://ironlockpwd.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <tr>
-      <td>Expense Tracker</td>
-      <td><a href="https://splitwisegroup.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <tr>
-      <td>Lead Finder (Extension)</td>
-      <td><a href="https://leadfinderr.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-    <tr>
-      <td>Passenger Counter App</td>
-      <td><a href="https://passangercount8.netlify.app"
 
- target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
-    </tr>
-  </tbody>
+    </tbody>
 </table>
+
+ 
