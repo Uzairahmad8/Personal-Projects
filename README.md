@@ -119,14 +119,14 @@
     <tr>
       <td>Tollify</td>
       <td><a href="https://toolifylp.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://rb.gy/k1189p" target="_blank">Figma Design</a></td>
+      <td><a href="https://github.com/uzairkbr/Toolify.git" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>E Commerce UI</td>
       <td><a href="https://ecommerce8.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="https://rb.gy/2ci4e2" target="_blank" target="_blank">Figma Design</a></td>
-      <td><a href="#">GitHub Repo</a></td>
+      <td><a href="https://github.com/uzairkbr/e-commerce-ui.git">GitHub Repo</a></td>
     </tr>
   </tbody>
 </table>
