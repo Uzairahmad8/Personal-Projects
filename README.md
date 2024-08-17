@@ -14,13 +14,13 @@
     <tr>
       <td>Fylo</td>
       <td><a href="https://fylomagic.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://rb.gy/iyy7j8" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/Fylo" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Article Preview</td>
       <td><a href="https://articlesnap.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://rb.gy/ogejah" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/Article-Preview" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
