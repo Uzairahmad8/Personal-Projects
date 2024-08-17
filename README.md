@@ -26,43 +26,43 @@
     <tr>
       <td>Meet Landing Page</td>
       <td><a href="https://meetlanding8.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://rb.gy/4zht64" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/Meet-Landing-Page" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Blogr Landing Page</td>
       <td><a href="https://blogrportal.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://rb.gy/m1qxtm" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/Blogr-Landing-Page" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>3 Column Design</td>
       <td><a href="http://tri-column-design.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://shorturl.at/EkMPO" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/3-column" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Social Proof Section</td>
       <td><a href="https://socialverif.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://shorturl.at/Unt3q" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/Social-Proof-Section" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Testimonial Grid Section</td>
       <td><a href="https://gridcheer.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://shorturl.at/6Fehj" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/Testimonial-Grid-Section" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>FAQ Accordion Card</td>
       <td><a href="https://faqacordioncard.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://shorturl.at/2Sckf" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/FAQ-Accordain-Card" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Clipboard Landing Page</td>
       <td><a href="https://clippylanding.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
+      <td><a href="https://shorturl.at/5xnl8" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/Clipboard-landing-Page" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
