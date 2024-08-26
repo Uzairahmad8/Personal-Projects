@@ -123,31 +123,6 @@
       <td><a href="https://github.com/uzairkbr/Toolify.git" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
-      <td>E Commerce UI</td>
-      <td><a href="https://ecommerce8.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="https://rb.gy/2ci4e2" target="_blank" target="_blank">Figma Design</a></td>
-      <td><a href="https://github.com/uzairkbr/e-commerce-ui.git">GitHub Repo</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<br><br><br><br><br>
-
-# Javascript-Projects:
-<br>
-
-<h2>Basic Javascript Projects: </h2>
-<table>
-  <thead>
-    <tr>
-      <th>Name of Project</th>
-      <th>Live Preview</th>
-      <th>Figma Design</th>
-      <th>GitHub Repo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td>To-do List</td>
       <td><a href="https://taskwizz.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
@@ -188,6 +163,31 @@
       <td><a href="https://passangercount8.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
       <td><a href="#" target="_blank">GitHub Repo</a></td>
+    </tr>
+
+    
+  
+  </tbody>
+</table>
+
+<br><br><br><br><br>
+
+<h2>Intermediate Frontend Projects:</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Name of Project</th>
+      <th>Live Preview</th>
+      <th>Figma Design</th>
+      <th>GitHub Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>E Commerce UI</td>
+      <td><a href="https://ecommerce8.netlify.app" target="_blank">Live Preview</a></td>
+      <td><a href="https://rb.gy/2ci4e2" target="_blank" target="_blank">Figma Design</a></td>
+      <td><a href="https://github.com/uzairkbr/e-commerce-ui.git">GitHub Repo</a></td>
     </tr>
   </tbody>
 </table>
