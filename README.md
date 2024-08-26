@@ -1,6 +1,6 @@
 # Frontend-Projects:
 
-<h2>Basic Frontend Projects:</h2>
+<h2>Basic:</h2>
 <table>
   <thead>
     <tr>
@@ -106,7 +106,7 @@
 
 <br><br><br><br><br>
 
-<h2>Intermediate Frontend Projects:</h2>
+<h2>Intermediate:</h2>
 <table>
   <thead>
     <tr>
@@ -173,7 +173,7 @@
 
 <br><br><br><br><br>
 
-<h2>Intermediate Frontend Projects:</h2>
+<h2>Advance:</h2>
 <table>
   <thead>
     <tr>
