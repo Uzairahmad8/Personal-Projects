@@ -186,7 +186,7 @@
   <tbody>
     <tr>
       <td>E Commerce UI</td>
-      <td><a href="https://ecommerce8.netlify.app" target="_blank">Live Preview</a></td>
+      <td><a href="https://ecommerce-practise.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="https://rb.gy/2ci4e2" target="_blank" target="_blank">Figma Design</a></td>
       <td><a href="https://github.com/uzairkbr/e-commerce-ui.git">GitHub Repo</a></td>
     </tr>
