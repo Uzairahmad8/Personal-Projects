@@ -127,43 +127,43 @@
       <td>To-do List</td>
       <td><a href="https://taskwizz.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/uzairkbr/To-Do-List" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Calculator</td>
       <td><a href="https://easycalcu.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/uzairkbr/Calculator-in-JS" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Black Jack Game</td>
       <td><a href="https://blackjack08.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="#" target="_blank" disable>Figma Design</a></td>
+      <td><a href="https://github.com/uzairkbr/BlackJack-Game-JS-" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Password Generator</td>
       <td><a href="https://ironlockpwd.netlify.app" target="_blank">Live Preview</a></td>
       <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="https://github.com/uzairkbr/Password-Generator-JavaScript" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Expense Tracker</td>
       <td><a href="https://splitwisegroup.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="#" target="_blank" disable>Figma Design</a></td>
+      <td><a href="https://github.com/uzairkbr/Expense-Tracker-in-JS" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Lead Finder (Extension)</td>
       <td><a href="https://leadfinderr.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="#" target="_blank" disable>Figma Design</a></td>
+      <td><a href="https://github.com/uzairkbr/Lead-Finder-Extension" target="_blank">GitHub Repo</a></td>
     </tr>
     <tr>
       <td>Passenger Counter App</td>
       <td><a href="https://passangercount8.netlify.app" target="_blank">Live Preview</a></td>
-      <td><a href="#" target="_blank">Figma Design</a></td>
-      <td><a href="#" target="_blank">GitHub Repo</a></td>
+      <td><a href="#" target="_blank" disable>Figma Design</a></td>
+      <td><a href="https://github.com/uzairkbr/Passenger-Counter-App" target="_blank">GitHub Repo</a></td>
     </tr>
 
     
